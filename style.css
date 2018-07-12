@@ -1,0 +1,27 @@
+/*Selector {
+	Property: value;
+
+}*/
+body {
+	background-image: url(lofty.jpg);
+	background-size: cover;
+}
+h2 {
+	color: #AA4139;
+	text-align:  center;
+	border: 5px solid rgba(255, 151, 156, 0.7);
+	cursor: pointer;
+}
+p {
+	color: pink;
+}
+p {
+	color: green;
+}
+li {
+	list-style: none;
+	display: inline-block;
+}
+.webtext {
+	border: 10px dashed black;
+}
